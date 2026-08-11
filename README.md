@@ -30,12 +30,12 @@ College campuses are complex ecosystems. When equipment breaks (e.g., a broken A
 
 ## Key Features
 
-### 1. Interactive Floor Map (Milestone 1 - Completed)
+### 1. Interactive Floor Map
 *   **Zoom & Pan:** Infinite canvas navigation (similar to Google Maps).
 *   **Vector Overlays:** Precision-mapped click targets for every classroom, lab, and corridor.
 *   **Responsive:** Works on large monitors and laptops.
 
-### 2. Built-in Map Editor (Admin Tool)
+### 2. Built-in Map Editor
 *   We built a custom **Visual Editor** to avoid hardcoding coordinates.
 *   Admins can **Drag, Resize, and Name** rooms directly on the UI.
 *   One-click export to generate the JSON geometry data.
