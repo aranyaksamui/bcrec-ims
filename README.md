@@ -1,5 +1,5 @@
 # BCREC INFRASTRUCTURE MANAGEMENT SYSTEM (BCREC-IMS)
-> **Hack Zenith 2025 Submission** | *Smart Campus Infrastructure Monitoring*
+> **Hack Zenith 2025 Submission** | *Smart Campus Infrastructure Monitoring and Management System*
 
 ## The Problem
 College campuses are complex ecosystems. When equipment breaks (e.g., a broken AC in Room TF-03 or a leaking pipe in the hallway), reporting it is often tedious. Emails get lost, locations are vague, and students have no visibility into whether a problem is being fixed.
