@@ -5,7 +5,7 @@
 College campuses are complex ecosystems. When equipment breaks (e.g., a broken AC in Room TF-03 or a leaking pipe in the hallway), reporting it is often tedious. Emails get lost, locations are vague, and students have no visibility into whether a problem is being fixed.
 
 ## The Solution
-**BCREC-IMS** is a "Digital Twin" solution for campus infrastructure. Instead of filling out boring forms, we mapped the entire college floor plan into an **Interactive Web Interface**.
+**BCREC-IMS** is a "Digital Twin" solution for BCREC campus infrastructure. Instead of filling out boring forms, we mapped the entire college floor plan into an **Interactive Web Interface**.
 
 *   **For Students:** Click the specific room on the map, snap a photo, and verify it with AI.
 *   **For Management:** A visual heatmap showing "Red Zones" (high complaints) vs. "Green Zones" (healthy infrastructure).
